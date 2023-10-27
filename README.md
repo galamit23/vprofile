@@ -20,8 +20,6 @@ This project is a practical resource for gaining experience in:
 
 ## Getting Started
 
-## Getting Started
-
 To set up and run the "vprofile" project, follow these steps:
 
 1. Clone this repository to your local machine.
